@@ -1,0 +1,22 @@
+.analysis {
+    padding: 20px;
+    margin: 20px 0;
+  }
+  
+  .analysis-results {
+    margin-top: 20px;
+  }
+  
+  .face-shape {
+    margin-bottom: 20px;
+  }
+  
+  .recommendations ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .error {
+    color: red;
+    margin: 10px 0;
+  }
